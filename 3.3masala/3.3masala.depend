@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1631714384 source:c:\users\nodirbek\c++\integer\3.3masala\main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+
